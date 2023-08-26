@@ -1,0 +1,12 @@
+ensure
+PyYAML
+pandas 
+seaborn
+numpy 
+matplotlib
+python-box
+
+
+
+
+-e .
